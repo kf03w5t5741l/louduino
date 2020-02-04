@@ -2,8 +2,6 @@
 
 Makes an LED light up according to sound level measured by a microphone. Sound level is measured by collecting a series of samples and calculating the root mean square (rms). LED brightness is simulated via pulse-width modulation (PWM).
 
-## Demo
-
 ![](louduino_demonstration.gif)
 
 ## Technical specs
